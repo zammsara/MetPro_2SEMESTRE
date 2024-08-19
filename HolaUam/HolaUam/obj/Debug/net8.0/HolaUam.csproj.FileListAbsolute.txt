@@ -1,0 +1,15 @@
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\bin\Debug\net8.0\HolaUam.exe
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\bin\Debug\net8.0\HolaUam.deps.json
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\bin\Debug\net8.0\HolaUam.runtimeconfig.json
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\bin\Debug\net8.0\HolaUam.dll
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\bin\Debug\net8.0\HolaUam.pdb
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\HolaUam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\HolaUam.AssemblyInfoInputs.cache
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\HolaUam.AssemblyInfo.cs
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\HolaUam.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\HolaUam.sourcelink.json
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\HolaUam.dll
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\refint\HolaUam.dll
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\HolaUam.pdb
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\HolaUam.genruntimeconfig.cache
+C:\Users\labc205\Desktop\MYPE.IISEMESTRE\HolaUam\HolaUam\obj\Debug\net8.0\ref\HolaUam.dll

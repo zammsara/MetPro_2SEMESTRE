@@ -4,8 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola UAM");
-            Console.WriteLine("Mi nombre es Sara");
+            //Leer nombre y saludar
+            string nombre;
+            string apellido;
+            Console.WriteLine("Dime tu nombre: ");
+            nombre = Console.ReadLine();
+            Console.WriteLine("Dime tu apellido: ");
+            apellido = Console.ReadLine();
+            Console.WriteLine($"Hola {nombre} {apellido}, mucho gusto."); 
         }
     }
 }

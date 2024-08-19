@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HolaUam")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Suma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2381d21074c42b96f5fb7783f86036be24a3c48")]
-[assembly: System.Reflection.AssemblyProductAttribute("HolaUam")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HolaUam")]
+[assembly: System.Reflection.AssemblyProductAttribute("Suma")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Suma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
