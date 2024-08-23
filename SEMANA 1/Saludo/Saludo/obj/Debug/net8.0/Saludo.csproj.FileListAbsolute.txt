@@ -1,0 +1,15 @@
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\bin\Debug\net8.0\Saludo.exe
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\bin\Debug\net8.0\Saludo.deps.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\bin\Debug\net8.0\Saludo.runtimeconfig.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\bin\Debug\net8.0\Saludo.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\bin\Debug\net8.0\Saludo.pdb
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\Saludo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\Saludo.AssemblyInfoInputs.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\Saludo.AssemblyInfo.cs
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\Saludo.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\Saludo.sourcelink.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\Saludo.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\refint\Saludo.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\Saludo.pdb
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\Saludo.genruntimeconfig.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\Saludo\Saludo\obj\Debug\net8.0\ref\Saludo.dll

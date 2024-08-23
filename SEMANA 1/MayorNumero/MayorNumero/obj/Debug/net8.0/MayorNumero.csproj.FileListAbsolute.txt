@@ -1,0 +1,15 @@
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\MayorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\MayorNumero.AssemblyInfoInputs.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\MayorNumero.AssemblyInfo.cs
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\MayorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\MayorNumero.sourcelink.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\bin\Debug\net8.0\MayorNumero.exe
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\bin\Debug\net8.0\MayorNumero.deps.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\bin\Debug\net8.0\MayorNumero.runtimeconfig.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\bin\Debug\net8.0\MayorNumero.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\bin\Debug\net8.0\MayorNumero.pdb
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\MayorNumero.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\refint\MayorNumero.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\MayorNumero.pdb
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\MayorNumero.genruntimeconfig.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\MayorNumero\MayorNumero\obj\Debug\net8.0\ref\MayorNumero.dll

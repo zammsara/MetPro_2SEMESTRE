@@ -1,0 +1,15 @@
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.exe
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.deps.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.runtimeconfig.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.pdb
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.AssemblyInfoInputs.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.AssemblyInfo.cs
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.sourcelink.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\refint\AumentarSalario.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.pdb
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.genruntimeconfig.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\AumentarSalario\AumentarSalario\obj\Debug\net8.0\ref\AumentarSalario.dll
