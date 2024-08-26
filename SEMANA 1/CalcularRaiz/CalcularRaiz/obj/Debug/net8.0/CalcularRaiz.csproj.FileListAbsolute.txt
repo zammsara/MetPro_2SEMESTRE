@@ -1,0 +1,15 @@
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\CalcularRaiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\CalcularRaiz.AssemblyInfoInputs.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\CalcularRaiz.AssemblyInfo.cs
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\CalcularRaiz.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\CalcularRaiz.sourcelink.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\bin\Debug\net8.0\CalcularRaiz.exe
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\bin\Debug\net8.0\CalcularRaiz.deps.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\bin\Debug\net8.0\CalcularRaiz.runtimeconfig.json
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\bin\Debug\net8.0\CalcularRaiz.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\bin\Debug\net8.0\CalcularRaiz.pdb
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\CalcularRaiz.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\refint\CalcularRaiz.dll
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\CalcularRaiz.pdb
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\CalcularRaiz.genruntimeconfig.cache
+C:\Users\Sara Zambrana\Desktop\CLONE\MetyProgEst\SEMANA 1\CalcularRaiz\CalcularRaiz\obj\Debug\net8.0\ref\CalcularRaiz.dll
