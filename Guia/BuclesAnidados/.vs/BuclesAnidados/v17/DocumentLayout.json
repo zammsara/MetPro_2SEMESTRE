@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\CLONE\\MetyProgEst\\Guia\\BuclesAnidados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABEBF16-0F62-4331-AEF2-A442032FBEDE}|BuclesAnidados\\BuclesAnidados.csproj|c:\\users\\sara zambrana\\onedrive\\escritorio\\clone\\metyprogest\\guia\\buclesanidados\\buclesanidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABEBF16-0F62-4331-AEF2-A442032FBEDE}|BuclesAnidados\\BuclesAnidados.csproj|solutionrelative:buclesanidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\CLONE\\MetyProgEst\\Guia\\BuclesAnidados\\BuclesAnidados\\Program.cs",
+              "RelativeDocumentMoniker": "BuclesAnidados\\Program.cs",
+              "ToolTip": "C:\\Users\\Sara Zambrana\\OneDrive\\Escritorio\\CLONE\\MetyProgEst\\Guia\\BuclesAnidados\\BuclesAnidados\\Program.cs",
+              "RelativeToolTip": "BuclesAnidados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:59:12.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

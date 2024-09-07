@@ -1,0 +1,15 @@
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\bin\Debug\net8.0\If.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\bin\Debug\net8.0\If.deps.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\bin\Debug\net8.0\If.runtimeconfig.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\bin\Debug\net8.0\If.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\bin\Debug\net8.0\If.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\If.AssemblyInfoInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\If.AssemblyInfo.cs
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\If.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\If.sourcelink.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\If.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\refint\If.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\If.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\If.genruntimeconfig.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\If\If\obj\Debug\net8.0\ref\If.dll

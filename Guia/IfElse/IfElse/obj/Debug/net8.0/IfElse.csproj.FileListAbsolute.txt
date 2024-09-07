@@ -1,0 +1,15 @@
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\bin\Debug\net8.0\IfElse.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\bin\Debug\net8.0\IfElse.deps.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\bin\Debug\net8.0\IfElse.runtimeconfig.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\bin\Debug\net8.0\IfElse.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\bin\Debug\net8.0\IfElse.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\IfElse.sourcelink.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\IfElse.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\refint\IfElse.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\IfElse.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\IfElse.genruntimeconfig.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\IfElse\IfElse\obj\Debug\net8.0\ref\IfElse.dll

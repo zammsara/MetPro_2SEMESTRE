@@ -1,0 +1,15 @@
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\bin\Debug\net8.0\BuclesAnidados.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\bin\Debug\net8.0\BuclesAnidados.deps.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\bin\Debug\net8.0\BuclesAnidados.runtimeconfig.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\bin\Debug\net8.0\BuclesAnidados.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\bin\Debug\net8.0\BuclesAnidados.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\BuclesAnidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\BuclesAnidados.AssemblyInfoInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\BuclesAnidados.AssemblyInfo.cs
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\BuclesAnidados.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\BuclesAnidados.sourcelink.json
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\BuclesAnidados.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\refint\BuclesAnidados.dll
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\BuclesAnidados.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\BuclesAnidados.genruntimeconfig.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\CLONE\MetyProgEst\Guia\BuclesAnidados\BuclesAnidados\obj\Debug\net8.0\ref\BuclesAnidados.dll
