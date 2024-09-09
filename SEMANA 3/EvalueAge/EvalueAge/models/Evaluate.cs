@@ -20,7 +20,7 @@ namespace UseIf.models
             }
             catch (Exception ex)
             {
-                return $"Error {ex.ToString}";
+                Console.WriteLine(ex.ToString());
             }
             return "Edad no admitida";
         }
