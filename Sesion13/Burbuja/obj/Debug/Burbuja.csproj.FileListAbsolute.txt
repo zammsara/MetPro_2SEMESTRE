@@ -1,0 +1,10 @@
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\bin\Debug\Burbuja.exe.config
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.csproj.AssemblyReference.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.Form1.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.Properties.Resources.resources
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.csproj.GenerateResource.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\Sara Zambrana\OneDrive\Escritorio\sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.pdb
